@@ -1,0 +1,8 @@
+[28-Jun-2025 22:08:01 UTC] PHP Fatal error:  Uncaught Error: Class "IXR_Client" not found in /home4/excelient/public_html/wp-includes/IXR/class-IXR-clientmulticall.php:8
+Stack trace:
+#0 {main}
+  thrown in /home4/excelient/public_html/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[04-Jul-2025 03:29:05 UTC] PHP Fatal error:  Uncaught Error: Class "IXR_Client" not found in /home4/excelient/public_html/wp-includes/IXR/class-IXR-clientmulticall.php:8
+Stack trace:
+#0 {main}
+  thrown in /home4/excelient/public_html/wp-includes/IXR/class-IXR-clientmulticall.php on line 8

@@ -1,0 +1,40 @@
+[28-Jun-2025 22:06:41 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home4/excelient/public_html/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home4/excelient/public_html/wp-includes/block-supports/border.php on line 170
+[28-Jun-2025 22:08:27 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home4/excelient/public_html/wp-includes/block-supports/align.php:59
+Stack trace:
+#0 {main}
+  thrown in /home4/excelient/public_html/wp-includes/block-supports/align.php on line 59
+[28-Jun-2025 22:08:37 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home4/excelient/public_html/wp-includes/block-supports/typography.php:684
+Stack trace:
+#0 {main}
+  thrown in /home4/excelient/public_html/wp-includes/block-supports/typography.php on line 684
+[28-Jun-2025 22:09:29 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home4/excelient/public_html/wp-includes/block-supports/colors.php:138
+Stack trace:
+#0 {main}
+  thrown in /home4/excelient/public_html/wp-includes/block-supports/colors.php on line 138
+[28-Jun-2025 22:09:41 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home4/excelient/public_html/wp-includes/block-supports/spacing.php:83
+Stack trace:
+#0 {main}
+  thrown in /home4/excelient/public_html/wp-includes/block-supports/spacing.php on line 83
+[04-Jul-2025 03:28:02 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home4/excelient/public_html/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home4/excelient/public_html/wp-includes/block-supports/border.php on line 170
+[04-Jul-2025 03:29:24 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home4/excelient/public_html/wp-includes/block-supports/align.php:59
+Stack trace:
+#0 {main}
+  thrown in /home4/excelient/public_html/wp-includes/block-supports/align.php on line 59
+[04-Jul-2025 03:29:32 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home4/excelient/public_html/wp-includes/block-supports/typography.php:684
+Stack trace:
+#0 {main}
+  thrown in /home4/excelient/public_html/wp-includes/block-supports/typography.php on line 684
+[04-Jul-2025 03:30:10 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home4/excelient/public_html/wp-includes/block-supports/colors.php:138
+Stack trace:
+#0 {main}
+  thrown in /home4/excelient/public_html/wp-includes/block-supports/colors.php on line 138
+[04-Jul-2025 03:30:19 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home4/excelient/public_html/wp-includes/block-supports/spacing.php:83
+Stack trace:
+#0 {main}
+  thrown in /home4/excelient/public_html/wp-includes/block-supports/spacing.php on line 83

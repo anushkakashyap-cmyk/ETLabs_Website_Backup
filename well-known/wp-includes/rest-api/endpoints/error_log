@@ -1,0 +1,8 @@
+[28-Jun-2025 22:07:47 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Posts_Controller" not found in /home4/excelient/public_html/wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/excelient/public_html/wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php on line 17
+[04-Jul-2025 03:28:54 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Posts_Controller" not found in /home4/excelient/public_html/wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/excelient/public_html/wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php on line 17

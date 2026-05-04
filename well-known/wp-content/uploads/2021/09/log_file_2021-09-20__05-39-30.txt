@@ -1,0 +1,46 @@
+
+---Downloaded files---
+The import files for: Design Studio were successfully downloaded!
+Initial max execution time = 3000
+Files info:
+Site URL = https://preview.droitthemes.net/wp/saasland
+Data file = /home/droitthemes/preview.droitthemes.net/wp/saasland/wp-content/uploads/2021/09/demo-content-import-file_2021-09-20__05-39-30.xml
+Widget file = /home/droitthemes/preview.droitthemes.net/wp/saasland/wp-content/themes/saasland-3.3.7/inc/demos/all/widgets.wie
+Customizer file = not defined!
+Redux files:
+saasland_opt -> /home/droitthemes/preview.droitthemes.net/wp/saasland/wp-content/themes/saasland-3.3.7/inc/demos/all/settings.json 
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Primary Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Imported
+Archives - No Title - Imported
+Categories - No Title - Imported
+
+Shop sidebar : 
+
+Product Search - No Title - Imported
+Filter Products by Price - Filter by price - Imported
+Products list - Products - Imported
+Product Categories - Product categories - Imported
+
+Footer widgets : 
+
+Text - No Title - Imported
+Navigation Menu - About Us - Imported
+Navigation Menu - Workflow Solutions - Imported
+Navigation Menu - Team Solutions - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: saasland_opt finished successfully!
+
+---ocdi/after_import---
+

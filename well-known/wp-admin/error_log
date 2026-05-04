@@ -1,0 +1,106 @@
+[14-Feb-2023 19:18:08 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home4/excelient/public_html/wp-includes/class-wp-image-editor-imagick.php on line 801
+[17-Feb-2023 18:03:52 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home4/excelient/public_html/wp-includes/class-wp-image-editor-imagick.php on line 801
+[17-Feb-2023 18:06:24 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home4/excelient/public_html/wp-includes/class-wp-image-editor-imagick.php on line 801
+[17-Feb-2023 18:13:11 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home4/excelient/public_html/wp-includes/class-wp-image-editor-imagick.php on line 801
+[17-Feb-2023 18:15:06 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home4/excelient/public_html/wp-includes/class-wp-image-editor-imagick.php on line 801
+[17-Feb-2023 19:27:03 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home4/excelient/public_html/wp-includes/class-wp-image-editor-imagick.php on line 801
+[18-Feb-2023 11:36:37 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home4/excelient/public_html/wp-includes/class-wp-image-editor-imagick.php on line 375
+[18-Feb-2023 11:39:00 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home4/excelient/public_html/wp-includes/class-wp-image-editor-imagick.php on line 801
+[18-Feb-2023 11:40:18 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home4/excelient/public_html/wp-includes/meta.php on line 241
+[23-Feb-2023 10:46:20 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home4/excelient/public_html/wp-includes/class-wp-image-editor-imagick.php on line 386
+[04-Aug-2023 20:31:29 UTC] PHP Warning:  Attempt to read property "ID" on bool in /home4/excelient/public_html/wp-includes/user.php on line 3299
+[04-Aug-2023 20:31:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function exists() on null in /home4/excelient/public_html/wp-includes/user.php:1897
+Stack trace:
+#0 /home4/excelient/public_html/wp-includes/pluggable.php(2753): clean_user_cache(NULL)
+#1 /home4/excelient/public_html/wp-includes/user.php(3299): wp_set_password('fvoiepxe', NULL)
+#2 /home4/excelient/public_html/wp-content/plugins/essential-addons-for-elementor-lite/includes/Traits/Login_Registration.php(911): reset_password(false, 'fvoiepxe')
+#3 /home4/excelient/public_html/wp-content/plugins/essential-addons-for-elementor-lite/includes/Traits/Login_Registration.php(52): Essential_Addons_Elementor\Classes\Bootstrap->reset_password()
+#4 /home4/excelient/public_html/wp-includes/class-wp-hook.php(308): Essential_Addons_Elementor\Classes\Bootstrap->login_or_register_user('')
+#5 /home4/excelient/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#6 /home4/excelient/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7 /home4/excelient/public_html/wp-settings.php(623): do_action('init')
+#8 /home4/excelient/public_html/wp-config.php(94): require_once('/home4/excelien...')
+#9 /home4/excelient/public_html/wp-load.php(50): require_once('/home4/excelien...')
+#10 /home4/excelient/public_html/wp-admin/admin-post.php(19): require_once('/home4/excelien...')
+#11 {main}
+  thrown in /home4/excelient/public_html/wp-includes/user.php on line 1897
+[04-Aug-2023 20:31:32 UTC] PHP Warning:  Attempt to read property "ID" on bool in /home4/excelient/public_html/wp-includes/user.php on line 3299
+[04-Aug-2023 20:31:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function exists() on null in /home4/excelient/public_html/wp-includes/user.php:1897
+Stack trace:
+#0 /home4/excelient/public_html/wp-includes/pluggable.php(2753): clean_user_cache(NULL)
+#1 /home4/excelient/public_html/wp-includes/user.php(3299): wp_set_password('xzteyhjb', NULL)
+#2 /home4/excelient/public_html/wp-content/plugins/essential-addons-for-elementor-lite/includes/Traits/Login_Registration.php(911): reset_password(false, 'xzteyhjb')
+#3 /home4/excelient/public_html/wp-content/plugins/essential-addons-for-elementor-lite/includes/Traits/Login_Registration.php(52): Essential_Addons_Elementor\Classes\Bootstrap->reset_password()
+#4 /home4/excelient/public_html/wp-includes/class-wp-hook.php(308): Essential_Addons_Elementor\Classes\Bootstrap->login_or_register_user('')
+#5 /home4/excelient/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#6 /home4/excelient/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7 /home4/excelient/public_html/wp-settings.php(623): do_action('init')
+#8 /home4/excelient/public_html/wp-config.php(94): require_once('/home4/excelien...')
+#9 /home4/excelient/public_html/wp-load.php(50): require_once('/home4/excelien...')
+#10 /home4/excelient/public_html/wp-admin/admin-post.php(19): require_once('/home4/excelien...')
+#11 {main}
+  thrown in /home4/excelient/public_html/wp-includes/user.php on line 1897
+[04-Aug-2023 23:28:46 UTC] PHP Warning:  Attempt to read property "ID" on bool in /home4/excelient/public_html/wp-includes/user.php on line 3299
+[04-Aug-2023 23:28:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function exists() on null in /home4/excelient/public_html/wp-includes/user.php:1897
+Stack trace:
+#0 /home4/excelient/public_html/wp-includes/pluggable.php(2753): clean_user_cache(NULL)
+#1 /home4/excelient/public_html/wp-includes/user.php(3299): wp_set_password('olmhsugz', NULL)
+#2 /home4/excelient/public_html/wp-content/plugins/essential-addons-for-elementor-lite/includes/Traits/Login_Registration.php(911): reset_password(false, 'olmhsugz')
+#3 /home4/excelient/public_html/wp-content/plugins/essential-addons-for-elementor-lite/includes/Traits/Login_Registration.php(52): Essential_Addons_Elementor\Classes\Bootstrap->reset_password()
+#4 /home4/excelient/public_html/wp-includes/class-wp-hook.php(308): Essential_Addons_Elementor\Classes\Bootstrap->login_or_register_user('')
+#5 /home4/excelient/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#6 /home4/excelient/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7 /home4/excelient/public_html/wp-settings.php(623): do_action('init')
+#8 /home4/excelient/public_html/wp-config.php(94): require_once('/home4/excelien...')
+#9 /home4/excelient/public_html/wp-load.php(50): require_once('/home4/excelien...')
+#10 /home4/excelient/public_html/wp-admin/admin-post.php(19): require_once('/home4/excelien...')
+#11 {main}
+  thrown in /home4/excelient/public_html/wp-includes/user.php on line 1897
+[04-Aug-2023 23:28:49 UTC] PHP Warning:  Attempt to read property "ID" on bool in /home4/excelient/public_html/wp-includes/user.php on line 3299
+[04-Aug-2023 23:28:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function exists() on null in /home4/excelient/public_html/wp-includes/user.php:1897
+Stack trace:
+#0 /home4/excelient/public_html/wp-includes/pluggable.php(2753): clean_user_cache(NULL)
+#1 /home4/excelient/public_html/wp-includes/user.php(3299): wp_set_password('poaaiwtq', NULL)
+#2 /home4/excelient/public_html/wp-content/plugins/essential-addons-for-elementor-lite/includes/Traits/Login_Registration.php(911): reset_password(false, 'poaaiwtq')
+#3 /home4/excelient/public_html/wp-content/plugins/essential-addons-for-elementor-lite/includes/Traits/Login_Registration.php(52): Essential_Addons_Elementor\Classes\Bootstrap->reset_password()
+#4 /home4/excelient/public_html/wp-includes/class-wp-hook.php(308): Essential_Addons_Elementor\Classes\Bootstrap->login_or_register_user('')
+#5 /home4/excelient/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#6 /home4/excelient/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7 /home4/excelient/public_html/wp-settings.php(623): do_action('init')
+#8 /home4/excelient/public_html/wp-config.php(94): require_once('/home4/excelien...')
+#9 /home4/excelient/public_html/wp-load.php(50): require_once('/home4/excelien...')
+#10 /home4/excelient/public_html/wp-admin/admin-post.php(19): require_once('/home4/excelien...')
+#11 {main}
+  thrown in /home4/excelient/public_html/wp-includes/user.php on line 1897
+[20-Aug-2023 19:05:40 UTC] PHP Warning:  Attempt to read property "ID" on bool in /home4/excelient/public_html/wp-includes/user.php on line 3303
+[20-Aug-2023 19:05:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function exists() on null in /home4/excelient/public_html/wp-includes/user.php:1898
+Stack trace:
+#0 /home4/excelient/public_html/wp-includes/pluggable.php(2781): clean_user_cache(NULL)
+#1 /home4/excelient/public_html/wp-includes/user.php(3303): wp_set_password('pxnvhaud', NULL)
+#2 /home4/excelient/public_html/wp-content/plugins/essential-addons-for-elementor-lite/includes/Traits/Login_Registration.php(911): reset_password(false, 'pxnvhaud')
+#3 /home4/excelient/public_html/wp-content/plugins/essential-addons-for-elementor-lite/includes/Traits/Login_Registration.php(52): Essential_Addons_Elementor\Classes\Bootstrap->reset_password()
+#4 /home4/excelient/public_html/wp-includes/class-wp-hook.php(310): Essential_Addons_Elementor\Classes\Bootstrap->login_or_register_user('')
+#5 /home4/excelient/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#6 /home4/excelient/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7 /home4/excelient/public_html/wp-settings.php(632): do_action('init')
+#8 /home4/excelient/public_html/wp-config.php(94): require_once('/home4/excelien...')
+#9 /home4/excelient/public_html/wp-load.php(50): require_once('/home4/excelien...')
+#10 /home4/excelient/public_html/wp-admin/admin-post.php(19): require_once('/home4/excelien...')
+#11 {main}
+  thrown in /home4/excelient/public_html/wp-includes/user.php on line 1898
+[20-Aug-2023 19:05:43 UTC] PHP Warning:  Attempt to read property "ID" on bool in /home4/excelient/public_html/wp-includes/user.php on line 3303
+[20-Aug-2023 19:05:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function exists() on null in /home4/excelient/public_html/wp-includes/user.php:1898
+Stack trace:
+#0 /home4/excelient/public_html/wp-includes/pluggable.php(2781): clean_user_cache(NULL)
+#1 /home4/excelient/public_html/wp-includes/user.php(3303): wp_set_password('cbvtiozv', NULL)
+#2 /home4/excelient/public_html/wp-content/plugins/essential-addons-for-elementor-lite/includes/Traits/Login_Registration.php(911): reset_password(false, 'cbvtiozv')
+#3 /home4/excelient/public_html/wp-content/plugins/essential-addons-for-elementor-lite/includes/Traits/Login_Registration.php(52): Essential_Addons_Elementor\Classes\Bootstrap->reset_password()
+#4 /home4/excelient/public_html/wp-includes/class-wp-hook.php(310): Essential_Addons_Elementor\Classes\Bootstrap->login_or_register_user('')
+#5 /home4/excelient/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#6 /home4/excelient/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7 /home4/excelient/public_html/wp-settings.php(632): do_action('init')
+#8 /home4/excelient/public_html/wp-config.php(94): require_once('/home4/excelien...')
+#9 /home4/excelient/public_html/wp-load.php(50): require_once('/home4/excelien...')
+#10 /home4/excelient/public_html/wp-admin/admin-post.php(19): require_once('/home4/excelien...')
+#11 {main}
+  thrown in /home4/excelient/public_html/wp-includes/user.php on line 1898

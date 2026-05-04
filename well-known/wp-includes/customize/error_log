@@ -1,0 +1,52 @@
+[27-Dec-2023 20:28:16 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Image_Control" not found in /home4/excelient/public_html/wp-includes/customize/class-wp-customize-background-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/excelient/public_html/wp-includes/customize/class-wp-customize-background-image-control.php on line 17
+[28-Jun-2025 22:04:45 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Panel" not found in /home4/excelient/public_html/wp-includes/customize/class-wp-customize-themes-panel.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/excelient/public_html/wp-includes/customize/class-wp-customize-themes-panel.php on line 17
+[28-Jun-2025 22:07:20 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Panel" not found in /home4/excelient/public_html/wp-includes/customize/class-wp-customize-nav-menus-panel.php:19
+Stack trace:
+#0 {main}
+  thrown in /home4/excelient/public_html/wp-includes/customize/class-wp-customize-nav-menus-panel.php on line 19
+[28-Jun-2025 22:07:34 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home4/excelient/public_html/wp-includes/customize/class-wp-customize-filter-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home4/excelient/public_html/wp-includes/customize/class-wp-customize-filter-setting.php on line 19
+[28-Jun-2025 22:07:43 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home4/excelient/public_html/wp-includes/customize/class-wp-customize-nav-menu-location-control.php:19
+Stack trace:
+#0 {main}
+  thrown in /home4/excelient/public_html/wp-includes/customize/class-wp-customize-nav-menu-location-control.php on line 19
+[28-Jun-2025 22:08:47 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Section" not found in /home4/excelient/public_html/wp-includes/customize/class-wp-customize-nav-menu-section.php:19
+Stack trace:
+#0 {main}
+  thrown in /home4/excelient/public_html/wp-includes/customize/class-wp-customize-nav-menu-section.php on line 19
+[28-Jun-2025 22:09:21 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home4/excelient/public_html/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php:20
+Stack trace:
+#0 {main}
+  thrown in /home4/excelient/public_html/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php on line 20
+[04-Jul-2025 03:26:40 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Panel" not found in /home4/excelient/public_html/wp-includes/customize/class-wp-customize-themes-panel.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/excelient/public_html/wp-includes/customize/class-wp-customize-themes-panel.php on line 17
+[04-Jul-2025 03:28:33 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Panel" not found in /home4/excelient/public_html/wp-includes/customize/class-wp-customize-nav-menus-panel.php:19
+Stack trace:
+#0 {main}
+  thrown in /home4/excelient/public_html/wp-includes/customize/class-wp-customize-nav-menus-panel.php on line 19
+[04-Jul-2025 03:28:44 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home4/excelient/public_html/wp-includes/customize/class-wp-customize-filter-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home4/excelient/public_html/wp-includes/customize/class-wp-customize-filter-setting.php on line 19
+[04-Jul-2025 03:28:51 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home4/excelient/public_html/wp-includes/customize/class-wp-customize-nav-menu-location-control.php:19
+Stack trace:
+#0 {main}
+  thrown in /home4/excelient/public_html/wp-includes/customize/class-wp-customize-nav-menu-location-control.php on line 19
+[04-Jul-2025 03:29:40 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Section" not found in /home4/excelient/public_html/wp-includes/customize/class-wp-customize-nav-menu-section.php:19
+Stack trace:
+#0 {main}
+  thrown in /home4/excelient/public_html/wp-includes/customize/class-wp-customize-nav-menu-section.php on line 19
+[04-Jul-2025 03:30:04 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home4/excelient/public_html/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php:20
+Stack trace:
+#0 {main}
+  thrown in /home4/excelient/public_html/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php on line 20

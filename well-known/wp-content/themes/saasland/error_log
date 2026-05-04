@@ -1,0 +1,48 @@
+[31-May-2024 14:31:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home4/excelient/public_html/wp-content/themes/saasland/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home4/excelient/public_html/wp-content/themes/saasland/index.php on line 15
+[03-Jun-2024 04:49:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home4/excelient/public_html/wp-content/themes/saasland/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home4/excelient/public_html/wp-content/themes/saasland/index.php on line 15
+[04-Jun-2024 04:46:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home4/excelient/public_html/wp-content/themes/saasland/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home4/excelient/public_html/wp-content/themes/saasland/index.php on line 15
+[05-Jun-2024 04:59:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home4/excelient/public_html/wp-content/themes/saasland/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home4/excelient/public_html/wp-content/themes/saasland/index.php on line 15
+[06-Jun-2024 05:47:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home4/excelient/public_html/wp-content/themes/saasland/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home4/excelient/public_html/wp-content/themes/saasland/index.php on line 15
+[12-Sep-2024 13:05:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home4/excelient/public_html/wp-content/themes/saasland/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home4/excelient/public_html/wp-content/themes/saasland/index.php on line 15
+[08-Nov-2024 03:25:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home4/excelient/public_html/wp-content/themes/saasland/404.php:6
+Stack trace:
+#0 {main}
+  thrown in /home4/excelient/public_html/wp-content/themes/saasland/404.php on line 6
+[06-Dec-2025 08:26:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home4/excelient/public_html/wp-content/themes/saasland/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home4/excelient/public_html/wp-content/themes/saasland/index.php on line 15
+[11-Dec-2025 00:05:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home4/excelient/public_html/wp-content/themes/saasland/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home4/excelient/public_html/wp-content/themes/saasland/index.php on line 15
+[26-Dec-2025 05:52:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home4/excelient/public_html/wp-content/themes/saasland/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home4/excelient/public_html/wp-content/themes/saasland/index.php on line 15
+[27-Jan-2026 23:38:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home4/excelient/public_html/wp-content/themes/saasland/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home4/excelient/public_html/wp-content/themes/saasland/index.php on line 15
+[09-Feb-2026 16:04:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home4/excelient/public_html/wp-content/themes/saasland/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home4/excelient/public_html/wp-content/themes/saasland/index.php on line 15

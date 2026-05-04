@@ -1,0 +1,24 @@
+# Ignore database
+*.sql
+
+# Ignore WordPress config
+wp-config.php
+
+# Ignore zip files
+*.zip
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Optional (large files)
+wp-content/uploads/
+
+
+# Ignore WordPress backups
+*.wpress
+well-known/wp-content/ai1wm-backups/
+
+*.wpress
+*.zip
+well-known/wp-content/ai1wm-backups/
